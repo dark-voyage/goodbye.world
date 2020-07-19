@@ -1,0 +1,3 @@
+(DEFUN GOODBYE ()
+  "Goodbye World"
+)
